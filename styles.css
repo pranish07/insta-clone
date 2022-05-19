@@ -317,3 +317,12 @@ body {
   }
 
 }
+
+@media(max-width: 500px){
+  .nav-items .icon{
+    margin:0 5px;
+  }
+  .post-image{
+    height:300px;
+  }
+}
